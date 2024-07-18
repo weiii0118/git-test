@@ -1,1 +1,1 @@
-print("wwwww0718")
+print("0718")
